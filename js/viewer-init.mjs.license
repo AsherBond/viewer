@@ -24,6 +24,7 @@ SPDX-FileCopyrightText: Rob Cresswell <robcresswell@pm.me>
 SPDX-FileCopyrightText: Sindre Sorhus
 SPDX-FileCopyrightText: Thorsten Lünborg
 SPDX-FileCopyrightText: atomiks
+SPDX-FileCopyrightText: debounce developers
 SPDX-FileCopyrightText: p-queue developers
 SPDX-FileCopyrightText: xiaokai <kexiaokai@gmail.com>
 SPDX-FileCopyrightText: xiemengxiong
@@ -64,6 +65,9 @@ This file is generated from multiple sources. Included packages:
 	- license: BSD-3-Clause
 - date-format-parse
 	- version: 0.2.7
+	- license: MIT
+- debounce
+	- version: 2.2.0
 	- license: MIT
 - emoji-mart-vue-fast
 	- version: 15.0.5
